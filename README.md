@@ -11,7 +11,7 @@ Linuxの [mountpoint](https://linux.die.net/man/1/mountpoint) から最小限の
 当然だけどRust環境必須です。
 
 ```sh
-cargo install --git https://github.com/0g1h4r4/pseudo-mountpoint.git
+cargo install --git https://github.com/511V41/pseudo-mountpoint.git
 ```
 
 ## 使い方
