@@ -6,6 +6,8 @@ Linuxの [mountpoint](https://linux.die.net/man/1/mountpoint) から最小限の
 
 特定ディレクトリがマウントポイントか確認することしかできません。
 
+ほぼ初めて書いたRustコードなので汚いけど気にしないでください。
+
 ## インストール
 
 当然だけどRust環境必須です。
